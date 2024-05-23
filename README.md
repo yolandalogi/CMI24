@@ -8,10 +8,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 # 1 Datos 
 
 
-
 **Titulo** : MI Proyecto (nombre)
 
 **Web:**   https://    (url github.io)
+
+**Github:** https://    (url https://github.com/.... )
 
 **Autor:**  (Nombre apellidos)
 
@@ -30,6 +31,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Tamaño proyecto:** XXMB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
+        (en caso de dudas revisar https://chooser-beta.creativecommons.org/) 
 
 **Fecha** : xx/xx/2024
 
