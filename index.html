@@ -104,7 +104,7 @@ p {
 
 .profile-card header h1 {
   /*** color nombre y logotipos ***/
-  color: #fdbbaf;
+  color: #1c1c8F;  
 }
 
 .profile-card header a {
@@ -147,9 +147,6 @@ p {
 }
 
     
-    
-
-
 
 .list-unstyled {
   margin-top: 20px;
@@ -165,7 +162,7 @@ p {
   font-size: 1.8em;
   line-height: 0px;
   text-align: center;
-  color: #fdbbaf;
+  color: #3c3c3c;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -ms-transition: all 0.3s ease-in-out;
@@ -180,6 +177,8 @@ p {
   box-shadow: 1px 1px 3px #333;
 }
 
+
+    
 @keyframes init {
   0% {
     width: 0px;
@@ -202,7 +201,7 @@ p {
   }
   100% {
     width: 500px;
-    height: 280px;
+    height: 300px;
     background: #FFFFFF;
     border-radius: 4px;
   }
@@ -269,14 +268,14 @@ p {
   .profile-card .profile-bio {
     width: auto;
     height: auto;
-    padding: 0px 20px 30px 20px;
+    padding: 0px 20px 10px 20px;
     display: block;
     float: none;
   }
 
   @keyframes materia {
     0% {
-      background: #E0E0E0;
+      background: #E0E0FF;
     }
     50% {
       border-radius: 4px;
@@ -323,16 +322,23 @@ p {
     
 /********* button *****/
 
+    
+.botondeproyecto {
+        margin-top: 30px;
+    }
+    
+    
 .button-pulse {
  
-  color: lightblue;
-  margin: 10px;
-  text-decoration: none;
+  color: blue;
   display: relative; 
-  letter-spacing: 1px;
+ 
+  margin-top: 50px;
+  text-decoration: none;
+  letter-spacing: 3px;
   border: 2px solid #fdbbaf;
-  border-radius: 1000px;
-  padding: 3px 3px;
+  border-radius: 100px;
+  padding: 10px 10px;
   
    animation: pulse 2s infinite 3s cubic-bezier(0.25, 0, 0, 1);
   box-shadow: 0 0 0 0  #fdbbaf; /* #1F4141; */
@@ -346,6 +352,7 @@ p {
 
 
 .footer {
+    margin-top:15px;
     padding: 25px 25px 25px 25px;
     
     }
@@ -365,9 +372,14 @@ p {
         <!---- alt image https://cdn.pixabay.com/photo/2016/03/31/23/06/boy-1297397_1280.png --->
       <h1>Joana Doe</h1>
       <h2>Designer</h2>
+        
+        
+        
+          
+         
     </header>
     <div class="profile-bio">
-      <p>Creación Multimedia Interactiva <BR> Mis trabajos los puedes encontrar en: </p>
+      <p>Mis trabajos los puedes encontrar: </p>
         
       <!---- fa icons: https://fontawesome.com/v4/icons/  ---->     
         
@@ -390,13 +402,15 @@ p {
     </ul>
     ---->
         
+        <div class="botondeproyecto"> 
      
-        <a href="./proyecto/index.html" target="_blank"><a href="#" class="button-pulse">Proyecto</a>
-         <a href="./ejercicios/index.html" target="_blank"><a href="#" class="button-pulse">Trabajos</a>
+        <a href="./proyecto/index.html" target="_blank" class="button-pulse">Proyecto</a>
+        </div>
     
      <div class="footer">
-          
-          <small>Bellas Artes UGR, 2024 <br> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cc-by-nc-sa_icon.svg/2560px-Cc-by-nc-sa_icon.svg.png" style="width: 80px"></small>
+          <small>Creación Multimedia Interactiva </small><br>
+        <small> Facultad de Bellas Artes </small><br>
+         <small> Universidad de Granada, 2024 <br> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cc-by-nc-sa_icon.svg/2560px-Cc-by-nc-sa_icon.svg.png" style="width: 80px"></small>
       </div> 
     
     
