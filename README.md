@@ -149,7 +149,7 @@ Después de conseguir la contraseña y salir de ahí , escuchó tronar huesos en
 - Instagram
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
+
 
 # 2. Memoria del proyecto 
 
@@ -185,10 +185,13 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
+**Investigación de campo** 
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+Para idear este proyecto, busqué muchas referencias relacionadas con el pixel art, y quería relacionarlo con esa estética misteriosa abandonada que tienen algunos castillos. Además, me interesaba que también el propio sonido de las cosas fuera así misterioso. Un ejemplo de esto son los botones que suenan igual que una radio antigua al ser encendida.
+
+Para las referencias cree mi propio moodboard en Pinterest sobre algunas ideas que me interesaban;
+
+
 
 
 
