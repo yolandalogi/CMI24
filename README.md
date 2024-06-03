@@ -22,7 +22,7 @@ Ronnie formaba parte de un grupo de tres miembros de los cuales por un accidente
 
 **Estilo/género:**  Fantasía Medieval.
 
-**Logotipo** : ![ ![Media/logotipo.png ](https://github.com/yolandalogi/yolandalogi.github.io/blob/main/Media/logotipo.png?raw=true)](https://github.com/yolandalogi/yolandalogi.github.io/blob/main/Media/Storyboard2.PNG?raw=true)
+**Logotipo** : ![Media/logotipo.png ](https://github.com/yolandalogi/yolandalogi.github.io/blob/main/Media/logotipo.png?raw=true)](https://github.com/yolandalogi/yolandalogi.github.io/blob/main/Media/Storyboard2.PNG?raw=true)
 
 
 (insertar imágenes a resolucion de 100px alto)
