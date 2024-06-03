@@ -191,6 +191,10 @@ Para idear este proyecto, busqué muchas referencias relacionadas con el pixel a
 
 Para las referencias cree mi propio moodboard en Pinterest sobre algunas ideas que me interesaban;
 
+![image](https://github.com/yolandalogi/yolandalogi.github.io/assets/170507830/45ecbbc3-55a3-4a31-a49d-aa362d255442)
+
+
+
 
 
 
