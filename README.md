@@ -34,6 +34,7 @@ Ronnie formaba parte de un grupo de tres miembros de los cuales por un accidente
 ![mountruo.png](https://github.com/yolandalogi/yolandalogi.github.io/blob/main/Media/Mounstruo.PNG?raw=true)
 
 
+
 **ESCENARIOS**
 
 
@@ -153,12 +154,15 @@ Después de conseguir la contraseña y salir de ahí , escuchó tronar huesos en
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
+
+![Storyboard3.png](https://github.com/yolandalogi/yolandalogi.github.io/blob/main/Media/Storyboard3.JPG?raw=true)
+
  ![Storyboard2](https://github.com/yolandalogi/yolandalogi.github.io/blob/main/Media/Storyboard2)(https://github.com/yolandalogi/yolandalogi.github.io/blob/main/Media/Storyboard2.PNG?raw=true)
  
 
 ![Storyboard1](https://github.com/yolandalogi/yolandalogi.github.io/blob/main/Media/Storyboard1.PNG?raw=true)
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+
 
 
 
