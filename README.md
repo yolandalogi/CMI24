@@ -40,6 +40,14 @@ Ronnie formaba parte de un grupo de tres miembros de los cuales por un accidente
 
 ![Castillo1.png](https://github.com/yolandalogi/yolandalogi.github.io/blob/main/Media/Castillo1.png?raw=true)
 
+![08.jpg](https://github.com/yolandalogi/yolandalogi.github.io/blob/main/Media/08.jpg?raw=true)
+
+![14.jpg](https://github.com/yolandalogi/yolandalogi.github.io/blob/main/Media/14.jpg?raw=true)
+
+![15.jpg](https://github.com/yolandalogi/yolandalogi.github.io/blob/main/Media/15.png?raw=true)
+
+![37.jpg](https://github.com/yolandalogi/yolandalogi.github.io/blob/main/Media/37.jpg?raw=true)
+
 **HISTORIA**
 
 
