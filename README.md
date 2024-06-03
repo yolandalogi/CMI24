@@ -22,7 +22,7 @@ Ronnie formaba parte de un grupo de tres miembros de los cuales por un accidente
 
 **Estilo/género:**  Fantasía Medieval.
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : Media/logotipo.png 
 
 (insertar imágenes a resolucion de 100px alto)
 
