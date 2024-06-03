@@ -194,7 +194,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Estaba interesada en realizar este proyecto ùes esta historia es de una campaña de D & d. Así que quería reflejar su historia en este juego para que la gente pudiera comprenderla un poco mejor
+Estaba interesada en realizar este proyecto pues esta historia es de una campaña de D & d. Así que quería reflejar su historia en este juego para que la gente pudiera comprenderla un poco mejor
 
 
 
