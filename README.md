@@ -8,17 +8,19 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 # 1 Datos 
 
 
-**Titulo** : MI Proyecto (nombre)
+**Titulo** : MI Proyecto Memory Castle
 
-**Web:**   https://    (url github.io)
+**Web:**   https://yolandalogi.github.io
 
 **Github:** https://    (url https://github.com/.... )
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  (Yolanda López Girón)
 
-**Resumen** : lorem ipsun dolor.... 
+**Resumen** : Para resumir de lo que va este juego Memory Castle, tenemos que saber que nuestra protagonista principal en su momento fue una conocida aventurera en un mundo de fantasía medieval.
+Ronnie formaba parte de un grupo de tres miembros de los cuales por un accidente desconocido dos de ellas murieron y sólo quedó ella. 
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+
+**Estilo/género:**  Fantasía Medieval.
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
