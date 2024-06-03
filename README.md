@@ -24,7 +24,12 @@ Ronnie formaba parte de un grupo de tres miembros de los cuales por un accidente
 
 **Logotipo** : ![Media/logotipo.png ](https://github.com/yolandalogi/yolandalogi.github.io/blob/main/Media/logotipo.png?raw=true)]
 
+**PERSONAJES**
+
+
 **HISTORIA**
+
+
 ARCO I
 
 Al inicio de nuestro juego , la protagonista cae desde el cielo a un bosque extraño y desconocido para ella. En este se encuentra un castillo derruido. 
