@@ -26,16 +26,16 @@ Ronnie formaba parte de un grupo de tres miembros de los cuales por un accidente
 
 (insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 800x600px 
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Google Chrome, MS Edgemóviles android y dispositivos ios
 
 **Tamaño proyecto:** XXMB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
         (en caso de dudas revisar https://chooser-beta.creativecommons.org/) 
 
-**Fecha** : xx/xx/2024
+**Fecha** : 29/5/2024
 
 **Medios** (donde se tiene presencia relacionada):
 
@@ -91,7 +91,7 @@ Este  proyecto es interesante porque ...
 
 **Publico / audiencia**
 
-- Orientado a 
+- Mayores de 12
 
 
 
