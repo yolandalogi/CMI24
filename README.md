@@ -243,9 +243,9 @@ Estaba interesada en realizar este proyecto pues esta historia es de una campañ
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
+* Musica:  La mayoria de los recursos son de uso libre de Pixybay , no obstante el audio nombrado como "Fábrica" es de mi propiedad al ser creado deliberadamente por mi en Ableton live
 * Imágenes:  
-* Tipografía
+* Tipografía: Loudnoiseblack y 
 
 **Herramientas utilizadas**
 
