@@ -32,11 +32,16 @@ Ronnie formaba parte de un grupo de tres miembros de los cuales por un accidente
 ![image](https://github.com/yolandalogi/yolandalogi.github.io/assets/170507830/c67daa13-bc08-4310-853c-0b9bafa7cfbc)
 
 ![mountruo.png](https://github.com/yolandalogi/yolandalogi.github.io/blob/main/Media/Mounstruo.PNG?raw=true)
+
+
+**ESCENARIOS**
+
+
+
 ![Castillo1.png](https://github.com/yolandalogi/yolandalogi.github.io/blob/main/Media/Castillo1.png?raw=true)
 
 **HISTORIA**
 
-**ESCENARIOS**
 
 
 
