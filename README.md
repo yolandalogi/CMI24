@@ -49,7 +49,7 @@ Ronnie formaba parte de un grupo de tres miembros de los cuales por un accidente
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
-
+ ![Storyboard2](https://github.com/yolandalogi/yolandalogi.github.io/blob/main/Media/Storyboard2)
 
 
 (narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
