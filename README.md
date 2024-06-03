@@ -25,8 +25,11 @@ Ronnie formaba parte de un grupo de tres miembros de los cuales por un accidente
 **Logotipo** : ![Media/logotipo.png ](https://github.com/yolandalogi/yolandalogi.github.io/blob/main/Media/logotipo.png?raw=true)]
 
 **PERSONAJES**
+
+
  ![Media/Ronnie.png](https://github.com/yolandalogi/yolandalogi.github.io/blob/main/Media/Ronniee.PNG?raw=true)
 
+![image](https://github.com/yolandalogi/yolandalogi.github.io/assets/170507830/c67daa13-bc08-4310-853c-0b9bafa7cfbc)
 
 **HISTORIA**
 
