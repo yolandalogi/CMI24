@@ -157,7 +157,6 @@ Después de conseguir la contraseña y salir de ahí , escuchó tronar huesos en
 
 ![Storyboard3.png](https://github.com/yolandalogi/yolandalogi.github.io/blob/main/Media/Storyboard3.JPG?raw=true)
 
- ![Storyboard2](https://github.com/yolandalogi/yolandalogi.github.io/blob/main/Media/Storyboard2)(https://github.com/yolandalogi/yolandalogi.github.io/blob/main/Media/Storyboard2.PNG?raw=true)
  
 
 ![Storyboard1](https://github.com/yolandalogi/yolandalogi.github.io/blob/main/Media/Storyboard1.PNG?raw=true)
@@ -195,7 +194,8 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Estaba interesada en realizar este proyecto ùes esta historia es de una campaña de D & d. Así que quería reflejar su historia en este juego para que la gente pudiera comprenderla un poco mejor
+
 
 
 
