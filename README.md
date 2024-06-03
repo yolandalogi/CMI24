@@ -35,6 +35,11 @@ Ronnie formaba parte de un grupo de tres miembros de los cuales por un accidente
 
 **HISTORIA**
 
+**ESCENARIOS**
+
+
+
+
 
 ARCO I
 
