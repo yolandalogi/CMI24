@@ -211,17 +211,28 @@ Estaba interesada en realizar este proyecto pues esta historia es de una campañ
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
+- Juego. De la parte más técnica , he realizado un primer juego de cuatro parejas de memoria. En propósito quería que esas cartas estuvieran intrínsecamente relacionadas con la historia previa .
+Para esto he utilizado variables y sumas para que el programa sepa cual es la respuesta correcta
+
+Por otro lado he creado un juego usando, un código de contraseñas en el que el jugador tiene que elegir la respuesta correcta para poder pasar a la siguiente escena 
+
+Para crear los diálogos he usado los Pause(); en las líneas de tiempo y un botón de Resumen();
+
+He usado diversas líneas de tiempo, tanto como para el movimiento de los monstruos como para la caída del inicio de Ronnie.
+
+
+- Video: Respecto a la parte del video, he usado un video convencional de yt , lo he descargado y luego con la aplicación de edición de Capcom, le he bajado la calidad y le he puesto un efecto más pixelado para que siguiera la esencia del proyecto
+
+
+- Instrucciones y ayuda al usuario Es recomendable tener paciencia al jugarlo, por ejemplo la banda sonora del principio es realmente interesante.
+- Menús y elementos de navegación (botones): Posee los botones convencionales de cualquier juego. Un boton de skip para pasar las partes más largas, un noton de menu y el mas importante , el modulador de volumen pues en algunas escenas puede ser bastante incómodo el ruido.
 - etc.
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+Cuando pasas demasiado rapidos los dialos se pone algo loco el programa. No obstante, un jugador normal apenas dr daría 
 
 
 
