@@ -22,7 +22,7 @@ Ronnie formaba parte de un grupo de tres miembros de los cuales por un accidente
 
 **Estilo/género:**  Fantasía Medieval.
 
-**Logotipo** : ![Media/logotipo.png ](https://github.com/yolandalogi/yolandalogi.github.io/blob/main/Media/logotipo.png?raw=true)](https://github.com/yolandalogi/yolandalogi.github.io/blob/main/Media/Storyboard2.PNG?raw=true)
+**Logotipo** : ![Media/logotipo.png ](https://github.com/yolandalogi/yolandalogi.github.io/blob/main/Media/logotipo.png?raw=true)]
 
 
 (insertar imágenes a resolucion de 100px alto)
@@ -50,8 +50,7 @@ Ronnie formaba parte de un grupo de tres miembros de los cuales por un accidente
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
- ![Storyboard2](https://github.com/yolandalogi/yolandalogi.github.io/blob/main/Media/Storyboard2)](https://github.com/yolandalogi/yolandalogi.github.io/blob/main/Media/Storyboard1.PNG?raw=true)
- ![Storyboard1](https://github.com/yolandalogi/yolandalogi.github.io/blob/main/Media/Storyboard1.PNG?raw=true)
+ ![Storyboard2](https://github.com/yolandalogi/yolandalogi.github.io/blob/main/Media/Storyboard2)]
 
 (narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
