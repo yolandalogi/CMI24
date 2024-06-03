@@ -24,6 +24,79 @@ Ronnie formaba parte de un grupo de tres miembros de los cuales por un accidente
 
 **Logotipo** : ![Media/logotipo.png ](https://github.com/yolandalogi/yolandalogi.github.io/blob/main/Media/logotipo.png?raw=true)]
 
+**HISTORIA**
+ARCO I
+
+Al inicio de nuestro juego , la protagonista cae desde el cielo a un bosque extraño y desconocido para ella. En este se encuentra un castillo derruido. 
+
+-¿Hola? ¿Hay alguien aquí?
+
+-¿Dónde estoy?
+
+-Este lugar es increíble.
+
+ -Por ahí hay una puerta debería de acercarme a ver  a dónde va.
+
+ARCO MOSCA
+
+Para saciar su curiosidad Ronnie decide entrar, cosa que no hace muy elegantemente pues ahora cae en un agujero.
+
+-AUCH!
+
+-¿Otra caída más?
+
+-Espera, ¿qué es ese sonido?
+
+-¿Un zumbido?
+
+Más profundo en el castillo la ex aventurera escucha ruidos a lo lejos.
+Cuando te acercas, ves que se trata de una asquerosa criatura con forma insectoide. 
+Parece que está muy enfada contigo. 
+. 
+Me has causado tanto dolor y sufrimiento, Buzz
+
+-Te he esperado demasiado tiempo para que volvieras a por mi, Buzz
+
+-Mi zumbido te perseguirá en cada rincón y mis alas traen la tormenta de mi venganza, Buzz 
+
+-No olvidaré lo que nos hicistes,  no te dejare olvidarlo tampoco,  Buzz
+
+-Seré implacable, Buzz
+
+Después de esto te desafía a un juego de memoria que a primera vista es infantil pero sabes que si fallas definitivamente morirás.
+Una vez ganado este bicho un alma aparece delante de la chica y desaparece sin más. 
+Poco después como si fuera un deja vu, estás en la misma situación pero esta vez con algo más de información pues recuerdas que salías en una de las cartas de la prueba anterior con personas que parecían que eran tus amigas.
+
+-¿Qué ha sido eso? 
+
+-¿Me conocía? 
+
+-Esas cartas … 
+
+-Creo que he visto eso antes. 
+
+-Como si lo hubiera vivido 
+
+-Otra vez un ruido raro
+
+Con una sensación de dejavu vuelves a acercarte a la nueva puerta.
+
+ARCO DEL BÍPEDO
+En esta ocasión se encuentra un monstruo sostenido por sus dos piernas, que tampoco tiene la intención de enseñarte el camino de salida. 
+
+-Tu?
+
+-¿Qué haces aquí?, MALDITA SEA.
+
+-Se supone que nos abandonastes y ahora vuelves gurr
+
+Parece ser que se trataba de  alguien que tampoco se acordaba. Este también decidió que era buen momento para ponerse a jugar. Ronnie pensó que era buena idea tantear el terreno con bromas para saber si le podía dar la contraseña correcta de la siguiente puerta. Pero no fue hasta que dijo lo que le dijo al bipedo le satisfaciera no se la dio.
+
+Después de conseguir la contraseña y salir de ahí , escuchó tronar huesos en el suelo. La joven se dio cuenta de que esas dos criaturas deben de tenerle rencor por algo que las convirtió en eso sin embargo solo sintió un escalofrío en su espalda al pensarlo.
+
+
+
+
 
 (insertar imágenes a resolucion de 100px alto)
 
