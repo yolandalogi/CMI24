@@ -180,9 +180,7 @@ Pero si ganas ellas podran descansar
 
  
 
-![Storyboard1](https://github.com/yolandalogi/yolandalogi.github.io/blob/main/Media/Storyboard1.PNG?raw=true)
-
-
+![Storyboard1 (1).PNG](https://github.com/yolandalogi/yolandalogi.github.io/blob/main/Media/Storyboard1%20(1).PNG?raw=true)
 
 
 
