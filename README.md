@@ -125,11 +125,37 @@ Parece ser que se trataba de  alguien que tampoco se acordaba. Este también dec
 
 Después de conseguir la contraseña y salir de ahí , escuchó tronar huesos en el suelo. La joven se dio cuenta de que esas dos criaturas deben de tenerle rencor por algo que las convirtió en eso sin embargo solo sintió un escalofrío en su espalda al pensarlo.
 
+-Las perdí hace tiempo y ahora las recuerdo.
+
+- Su almas están atrapadas tengo que liberarlas ,¿cómo?
+
+
+  ARCO FINAL
+
+Una vez las almas liberadas de los cuerpos estas huyen de ti para esconderse.
+
+Se esconden en un botes mágicos y empiezan a moverse rápidamente sin que tu puedas ver donde se han metido
+
+-¿Dónde se han metido?
+-Tengo que estar atenta
+
+Es aquí donde aparece el tercer juego un de atención si fallas no podras liberar a tus amigas
+
+-¿No están ahí ?, tengo que huir 
+
+
+Pero si ganas ellas podran descansar
+
+-Se están yendo
+
+-Son libres ya no están 
 
 
 
 
-(insertar imágenes a resolucion de 100px alto)
+
+
+
 
 **Resolución:** 800x600px 
 
@@ -142,11 +168,6 @@ Después de conseguir la contraseña y salir de ahí , escuchó tronar huesos en
 
 **Fecha** : 29/5/2024
 
-**Medios** (donde se tiene presencia relacionada):
-
-- Github:
-- Twitter
-- Instagram
 
 
 
