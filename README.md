@@ -270,7 +270,7 @@ He usado diversas líneas de tiempo, tanto como para el movimiento de los monstr
 
 ### Etapa 3: Problemas identificados
 
-Cuando pasas demasiado rapidos los dialos se pone algo loco el programa. No obstante, un jugador normal apenas dr daría 
+Cuando pasas demasiado rapidos los dialos se pone algo loco el programa. No obstante, un jugador normal apenas se daría cuenta
 
 
 
@@ -287,11 +287,17 @@ Para el próximo me gustaria mejorar la narrativa.
 # 5 Referencias 
 
 
+Kadabura
+@KadaburaDraws
+
+https://x.com/kadaburadraws
+
+
 **Recursos y materiales audiovisuales:**
 
 * Musica:  La mayoria de los recursos son de uso libre de Pixybay , no obstante el audio nombrado como "Fábrica" es de mi propiedad al ser creado deliberadamente por mi en Ableton live
 * Imágenes:  
-* Tipografía: Loudnoiseblack y 
+* Tipografía: Loudnoiseblack y Handjet Cyrillic Medium
 
 **Herramientas utilizadas**
 
