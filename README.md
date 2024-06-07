@@ -190,7 +190,7 @@ Pero si ganas ellas podran descansar
 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+![memorycastle.drawio.png](https://github.com/yolandalogi/yolandalogi.github.io/blob/main/recursosblog/memorycastle.drawio.png)
 
 
 
