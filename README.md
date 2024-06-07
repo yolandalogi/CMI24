@@ -202,6 +202,16 @@ Pero si ganas ellas podran descansar
 
 Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
+Creacción de la trama 
+Moodboard
+Storyboard de las escenas 
+Implementación de juegos según la trama
+Realización de los medios .
+Montaje del proyecto
+Finalización 
+Exposición del juego al público
+
+
 
 
 ### Etapa 1: Ideación de proyecto
@@ -237,13 +247,13 @@ Estaba interesada en realizar este proyecto pues esta historia es de una campañ
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
 - Juego. De la parte más técnica , he realizado un primer juego de cuatro parejas de memoria. En propósito quería que esas cartas estuvieran intrínsecamente relacionadas con la historia previa .
 Para esto he utilizado variables y sumas para que el programa sepa cual es la respuesta correcta
 
 Por otro lado he creado un juego usando, un código de contraseñas en el que el jugador tiene que elegir la respuesta correcta para poder pasar a la siguiente escena 
 
+Por último he realizado un juego de atención en el que el espectador, tiene que ver en que frasco se ha ocultado el alma
 Para crear los diálogos he usado los Pause(); en las líneas de tiempo y un botón de Resumen();
 
 He usado diversas líneas de tiempo, tanto como para el movimiento de los monstruos como para la caída del inicio de Ronnie.
@@ -266,8 +276,8 @@ Cuando pasas demasiado rapidos los dialos se pone algo loco el programa. No obst
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
+Me gustaria la próxima vez poder realizar mas diálogos, pero al ser imagenes y no fonts se me hacia muy díficil hacer que estos fueran complejos.
+Para el próximo me gustaria mejorar la narrativa.
 
 
 
@@ -276,9 +286,6 @@ Cuando pasas demasiado rapidos los dialos se pone algo loco el programa. No obst
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
 
 **Recursos y materiales audiovisuales:**
 
@@ -289,11 +296,12 @@ Cuando pasas demasiado rapidos los dialos se pone algo loco el programa. No obst
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- CapCut
+- Procreate
+- IbisPaint
 
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
 
 https://creativecommons.org/licenses/?lang=es
 
